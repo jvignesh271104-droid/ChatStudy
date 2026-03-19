@@ -112,7 +112,7 @@ while True:
 conn.close()
 server.close()
 ```
-2. cilent chat.py
+2. client chat.py
 ```
 import socket
 
